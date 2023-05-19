@@ -1,6 +1,6 @@
 # Digital Commerce Core Reference Template
 
-This is the base reference application for the conga ecommerce product. Follow the below instructions to get started. See the [docs](https://apttus-ecom.github.io/May22/index.html) for more detailed instructions on interacting with the underlying SDK.
+This is the base reference application for the conga ecommerce product. Follow the below instructions to get started. See the [docs](https://congacommerce.github.io/documentation-june23/index.html) for more detailed instructions on interacting with the underlying SDK.
 
 ---
 ## Table of content 
@@ -176,7 +176,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Deploy to your salesforce org
 Deploy your Digital Commerce application on your Salesforce Org.
 
-Refer the [docs](https://documentation.conga.com/digital-commerce/may-22/deploying-the-application-to-salesforce-161156294.html)
+Refer the [docs](https://documentation.conga.com/digital-commerce/june-23/deploying-the-application-to-salesforce-161156294.html)
 
 <div id="running-unit-tests"/>
 
