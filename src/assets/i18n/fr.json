@@ -42,7 +42,8 @@
         "TITLE": "fr_FR Success",
         "CART": {
             "ITEM_ADDED_TOASTR_MESSAGE": "fr_FR {{productName}} was added to the cart.",
-            "ITEM_ADDED_TOASTR_TITLE": "fr_FR Item Added"
+            "ITEM_ADDED_TOASTR_TITLE": "fr_FR Item Added",
+            "PRODUCTS_ADDED": "fr_FR Products added successfully"
         },
         "PROMOTION": {
             "VALID_PROMOTION_TITLE": "fr_FR Promotion Applied",
@@ -59,6 +60,9 @@
             "UPDATE_FAVORITE": "fr_FR Updated existing {{name}} Favorite",
             "ADD_FAVORITE_TO_CART": "fr_FR Items from {{name}} were added to the cart."
         }
+    },
+    "INFO": {
+        "CART_IN_PROGRESS": "fr_FR Some interactions with the cart are in progress..."
     },
     "ASSETS": {
         "TERMINATE_SUCCESS": "fr_FR The asset termination has been added to your cart.",

@@ -44,7 +44,8 @@
         "CART": {
             "ITEM_ADDED_TOASTR_MESSAGE": "{{productName}} was added to the cart.",
             "ITEM_ADDED_TOASTR_TITLE": "Item Added",
-            "CONFIGURATION_UPDATED": "{{productName}} configuration has been updated."
+            "CONFIGURATION_UPDATED": "{{productName}} configuration has been updated.",
+            "PRODUCTS_ADDED": "Products added successfully"
         },
         "PROMOTION": {
             "VALID_PROMOTION_TITLE": "Promotion Applied",
@@ -60,6 +61,9 @@
             "UPDATE_FAVORITE": "Updated existing {{name}} Favorite",
             "ADD_FAVORITE_TO_CART": "Items from {{name}} were added to the cart."
         }
+    },
+    "INFO": {
+        "CART_IN_PROGRESS": "Some interactions with the cart are in progress..."
     },
     "ASSETS": {
         "TERMINATE_SUCCESS": "The asset termination has been added to your cart.",
