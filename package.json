@@ -1,6 +1,6 @@
 {
   "name": "apttus.ui.ecom.rc",
-  "version": "2302.0.0",
+  "version": "2302.1.15",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -21,9 +21,9 @@
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
-    "@congacommerce/core": "^2302.0.10",
-    "@congacommerce/ecommerce": "^2302.0.10",
-    "@congacommerce/elements": "^2302.0.10",
+    "@congacommerce/core": "^2302.1.15",
+    "@congacommerce/ecommerce": "^2302.1.15",
+    "@congacommerce/elements": "^2302.1.15",
     "@fortawesome/fontawesome-free": "^5.12.0",
     "@kolkov/ngx-gallery": "1.2.3",
     "@ng-select/ng-option-highlight": "0.0.5",
@@ -37,6 +37,7 @@
     "crypto-js": "^3.1.9-1",
     "currency-codes": "^1.5.1",
     "fuse.js": "^3.4.6",
+    "querystring": "^0.2.1",
     "jquery": "3.4.1",
     "jsforce": "^1.9.3",
     "ladda": "^2.0.1",
